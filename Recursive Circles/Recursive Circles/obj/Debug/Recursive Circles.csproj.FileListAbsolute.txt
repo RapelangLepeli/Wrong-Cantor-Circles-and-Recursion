@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive Circles.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive_Circles.Form1.resources
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive_Circles.Properties.Resources.resources
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive Circles.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive Circles.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\bin\Debug\Recursive Circles.exe.config
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\bin\Debug\Recursive Circles.exe
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\bin\Debug\Recursive Circles.pdb
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive Circles.exe
+D:\Visual Studio Projects\Recursive Circles\Recursive Circles\obj\Debug\Recursive Circles.pdb
